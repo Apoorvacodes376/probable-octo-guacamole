@@ -1,6 +1,66 @@
-# December-Of-Algorithms-Easy
+# A-December-of-Algorithms-2026
 
-## 1. Snack Pair Counter
+<div align="left">
+<h1>
+    <p align="center"><img alt="header" src="https://github.com/user-attachments/assets/ef5563b7-51a9-4308-8faa-c4bf59b6141e" width="500"></img></p>
+
+</h1>
+Welcome to A December of Algorithms 2026.
+
+Building on the success and enthusiasm of previous years, we’re excited to bring you a fresh selection of algorithms to explore and implement this December!
+
+Each Day, Each Algorithm ;)
+Finish them all to get a certificate :)
+
+**Send a pull request only after completing all 31 algorithms.**
+
+**Please submit all PRs on or before January 1st 2027, 11:59 PM IST.**
+
+## What Do I Do?
+
+We have a small collection of algorithms, one for every day of the month. Scroll down to take a look at them.
+
+All you need to do is fork this repository, implement all 31 algorithms and send a pull request over to us.
+
+Check out our FAQ for more information.
+
+## Index
+
+1. [December 01 - Snack Pair Counter](#december-01---snack-pair-counter)
+2. [December 02 - K-th Element of Two Sorted Arrays](#december-02---k-th-element-of-two-sorted-arrays)
+3. [December 03 - Roman Numeral Converter with Digit Sum](#december-03---roman-numeral-converter-with-digit-sum)
+4. [December 04 - Project TRI-FLOW – Detect the Three-Phase Traffic Pattern](#december-04---project-tri-flow--detect-the-three-phase-traffic-pattern)
+5. [December 05 - Two Sum with Minimum Index Distance](#december-05---two-sum-with-minimum-index-distance)
+6. [December 06 - Merge Two Sorted Lists (Excluding Negative Nodes)](#december-06---merge-two-sorted-lists-excluding-negative-nodes)
+7. [December 07 - Sort an Array of Strings According to String Lengths](#december-07---sort-an-array-of-strings-according-to-string-lengths)
+8. [December 08 - The Smart Campus Resource Tracker](#december-08---the-smart-campus-resource-tracker)
+9. [December 09 - Smallest Subarray with Sum Greater Than a Given Value](#december-09---smallest-subarray-with-sum-greater-than-a-given-value)
+10. [December 10 - Restore Friends' Finishing Order](#december-10---restore-friends-finishing-order)
+11. [December 11 - Valid Palindrome](#december-11---valid-palindrome)
+12. [December 12 - Add Digits](#december-12---add-digits)
+13. [December 13 - Cargo Balance Triples](#december-13---cargo-balance-triples)
+14. [December 14 - Cipher Crate Sorting](#december-14---cipher-crate-sorting)
+15. [December 15 - Crater Fields](#december-15---crater-fields)
+16. [December 16 - Fuel Cell Combinations](#december-16---fuel-cell-combinations)
+17. [December 17 - Spore Spread](#december-17---spore-spread)
+18. [December 18 - Module Boot Order](#december-18---module-boot-order)
+19. [December 19 - Telemetry Climb](#december-19---telemetry-climb)
+20. [December 20 - Maintenance Windows](#december-20---maintenance-windows)
+21. [December 21 - Fuel Flow Intervals](#december-21---fuel-flow-intervals)
+22. [December 22 - Median of Two Sorted Arrays](#december-22---median-of-two-sorted-arrays)
+23. [December 23 - Unique Paths](#december-23---unique-paths)
+24. [December 24 - Lunar Mining Colony: Dome Oxygen Containment](#december-24---lunar-mining-colony-dome-oxygen-containment)
+25. [December 25 - Reactor Rod — Squared Cutting Cost](#december-25---reactor-rod--squared-cutting-cost)
+26. [December 26 - Alternating-Sensor Transformations](#december-26---alternating-sensor-transformations)
+27. [December 27 - Checkpoint-Safe Storage Rectangle](#december-27---checkpoint-safe-storage-rectangle)
+28. [December 28 - Peak Window Baseline](#december-28---peak-window-baseline)
+29. [December 29 - Bounded Palindrome Archive](#december-29---bounded-palindrome-archive)
+30. [December 30 - Maximum Path Sum in a Binary Tree](#december-30---maximum-path-sum-in-a-binary-tree)
+31. [December 31 - Count All Possible Routes](#december-31---count-all-possible-routes)
+
+---
+
+## December 01 - Snack Pair Counter
 
 ### Problem Statement
 
@@ -75,7 +135,9 @@ Print a single integer representing the total number of valid non-adjacent pairs
 - [Codeforces 1538C – Number of Pairs](https://codeforces.com/problemset/problem/1538/C) — Counts pairs whose sum lies within a specified range.
 - [Codeforces 2051D – Counting Pairs](https://codeforces.com/problemset/problem/2051/D) — Counts pairs satisfying a condition involving the array sum.
 
-## 2. K-th Element of Two Sorted Arrays
+---
+
+## December 02 - K-th Element of Two Sorted Arrays
 
 ### Problem Statement
 
@@ -134,8 +196,9 @@ In sample 1, the combined sorted array is `[1, 2, 3, 4, 6, 7, 8, 9, 10]`, and th
 
 - [GeeksforGeeks – K-th Element of Merged Two Sorted Arrays](https://www.geeksforgeeks.org/dsa/k-th-element-two-sorted-arrays/)
 
+---
 
-## 3. Roman Numeral Converter with Digit Sum
+## December 03 - Roman Numeral Converter with Digit Sum
 
 ### Problem Statement
 
@@ -203,7 +266,9 @@ In sample 1, `III` equals `3`, and its digit sum is `3`. In sample 2, `LVIII` eq
 
 - [LeetCode – Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
 
-## 4. Project TRI-FLOW – Detect the Three-Phase Traffic Pattern
+---
+
+## December 04 - Project TRI-FLOW – Detect the Three-Phase Traffic Pattern
 
 ### Problem Statement
 
@@ -276,7 +341,9 @@ In sample 1, the speeds strictly increase (`1 → 3 → 5`), strictly decrease (
 
 - LeetCode – Trionic Array I: https://leetcode.com/problems/trionic-array-i/
 
-## 5. Two Sum with Minimum Index Distance
+---
+
+## December 05 - Two Sum with Minimum Index Distance
 
 ### Problem Statement
 
@@ -351,7 +418,9 @@ In sample 1, `(0, 1)` sums to `9` but has distance `1 < 2`, so `(1, 4)` (`7 + 2 
 
 - LeetCode – Two Sum: https://leetcode.com/problems/two-sum/
 
-## 6. Merge Two Sorted Lists (Excluding Negative Nodes)
+---
+
+## December 06 - Merge Two Sorted Lists (Excluding Negative Nodes)
 
 ### Problem Statement
 
@@ -424,7 +493,9 @@ In sample 1, `-3` is excluded and the remaining nodes merge into `[0, 1, 2, 4, 5
 
 - [LeetCode – Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 
-## 7. Sort an Array of Strings According to String Lengths
+---
+
+## December 07 - Sort an Array of Strings According to String Lengths
 
 ### Problem Statement
 
@@ -478,7 +549,9 @@ In sample 1, the lengths are `13, 1, 4, 2`, so sorting in ascending order gives 
 [GeeksforGeeks – Sort an Array of Strings According to String Lengths](https://www.geeksforgeeks.org/sort-array-strings-according-string-lengths/)
 [LeetCode – Sort the People / Rearrange Words in a Sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence/)
 
-## 8. The Smart Campus Resource Tracker
+---
+
+## December 08 - The Smart Campus Resource Tracker
 
 ### Problem Statement
 
@@ -532,7 +605,9 @@ In sample 1, the cumulative sums are `10`, `10 + 20 = 30`, `30 + 15 = 45`, `45 +
 ### Reference
 - LeetCode – Running Sum of 1D Array: https://leetcode.com/problems/running-sum-of-1d-array/
 
-## 9. Smallest Subarray with Sum Greater Than a Given Value
+---
+
+## December 09 - Smallest Subarray with Sum Greater Than a Given Value
 
 ### Problem Statement
 
@@ -588,7 +663,9 @@ In sample 1, the minimum length subarray with a sum strictly greater than `51` i
 - [GeeksforGeeks – Smallest Subarray with Sum Greater than a Given Value](https://www.geeksforgeeks.org/minimum-length-subarray-sum-greater-given-value/)
 - [LeetCode – Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
 
-## 10. Restore Friends' Finishing Order
+---
+
+## December 10 - Restore Friends' Finishing Order
 
 ### Problem Statement
 
@@ -654,7 +731,9 @@ In Sample 1, the original finishing order is `[3, 1, 2, 5, 4]`. Among these part
 
 - https://leetcode.com/problems/restore-finishing-order/description/?envType=problem-list-v2&envId=hash-table
 
-## 11. Valid Palindrome
+---
+
+## December 11 - Valid Palindrome
 
 ### Problem Statement
 
@@ -713,7 +792,9 @@ In Sample 2, `"helloworld"` is not the same when reversed, so the output is `fal
 
 - https://leetcode.com/problems/valid-palindrome/
 
-## 12. Add Digits
+---
+
+## December 12 - Add Digits
 
 ### Problem Statement
 
@@ -777,25 +858,9 @@ In Sample 2:
 
 - https://leetcode.com/problems/add-digits/
 
-# DOA 2026 Questions: Medium
+---
 
-Nine medium-difficulty problems in the same format as the Hard set. Each one is a themed rework of a standard LeetCode medium, with a small twist so it is not a copy of the original.
-
-Reference solutions (Python 3) are in [`solutions/`](solutions). Run `python tests/run_samples.py` to check every sample.
-
-| # | Problem | Based on |
-|---|---------|----------|
-| 1 | Cargo Balance Triples | [3Sum](https://leetcode.com/problems/3sum/) |
-| 2 | Cipher Crate Sorting | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) |
-| 3 | Crater Fields | [Number of Islands](https://leetcode.com/problems/number-of-islands/) |
-| 4 | Fuel Cell Combinations | [Coin Change](https://leetcode.com/problems/coin-change/) |
-| 5 | Spore Spread | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) |
-| 6 | Module Boot Order | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) |
-| 7 | Telemetry Climb | [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) |
-| 8 | Maintenance Windows | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) |
-| 9 | Fuel Flow Intervals | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) |
-
-## 1. Cargo Balance Triples
+## December 13 - Cargo Balance Triples
 
 ### Problem Statement
 
@@ -865,7 +930,7 @@ In sample 1, the distinct triples are `(-1, -1, 2)` and `(-1, 0, 1)`. In sample 
 
 ---
 
-## 2. Cipher Crate Sorting
+## December 14 - Cipher Crate Sorting
 
 ### Problem Statement
 
@@ -935,7 +1000,7 @@ In sample 1, the groups are `{eat, tea, ate}`, `{tan, nat}`, and `{bat}`. Sample
 
 ---
 
-## 3. Crater Fields
+## December 15 - Crater Fields
 
 ### Problem Statement
 
@@ -1009,7 +1074,7 @@ In sample 1, the fields have areas `4`, `1`, and `2`. In sample 2, the two crate
 
 ---
 
-## 4. Fuel Cell Combinations
+## December 16 - Fuel Cell Combinations
 
 ### Problem Statement
 
@@ -1080,7 +1145,7 @@ In sample 1, `5 + 5 + 1` uses three cells, and there are `11` unordered combinat
 
 ---
 
-## 5. Spore Spread
+## December 17 - Spore Spread
 
 ### Problem Statement
 
@@ -1153,7 +1218,7 @@ In sample 1, the last plant is infected at minute `4`. In sample 2, the plant in
 
 ---
 
-## 6. Module Boot Order
+## December 18 - Module Boot Order
 
 ### Problem Statement
 
@@ -1226,7 +1291,7 @@ In sample 1, module `3` must come before `1` and `2`, which must both come befor
 
 ---
 
-## 7. Telemetry Climb
+## December 19 - Telemetry Climb
 
 ### Problem Statement
 
@@ -1296,7 +1361,7 @@ In sample 1, the longest climbs are `1 3 5 7` and `1 3 4 7`. In samples 2 and 3,
 
 ---
 
-## 8. Maintenance Windows
+## December 20 - Maintenance Windows
 
 ### Problem Statement
 
@@ -1372,7 +1437,7 @@ In sample 1, the merged windows are `[1, 6]`, `[8, 10]`, and `[15, 18]`, coverin
 
 ---
 
-## 9. Fuel Flow Intervals
+## December 21 - Fuel Flow Intervals
 
 ### Problem Statement
 
@@ -1441,7 +1506,7 @@ In sample 1, the intervals covering positions `0..1` and `1..2` each sum to `2`.
 
 - [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
 
-## 1. Median of Two Sorted Arrays
+## December 22 - Median of Two Sorted Arrays
 
 ### Problem Statement
 
@@ -1502,7 +1567,7 @@ The combined sorted arrays are `[1, 2, 3]` and `[1, 2, 3, 4]`. Their medians are
 
 ---
 
-## 2. Unique Paths
+## December 23 - Unique Paths
 
 ### Problem Statement
 
@@ -1582,7 +1647,7 @@ In sample 1, exactly two routes cover all 11 non-obstacle cells before ending at
 
 ---
 
-## 3. Lunar Mining Colony: Dome Oxygen Containment
+## December 24 - Lunar Mining Colony: Dome Oxygen Containment
 
 ### Problem Statement
 
@@ -1645,7 +1710,7 @@ In sample 1, three interior cells retain `1`, `2`, and `1` units. In sample 2, t
 
 ---
 
-## 4. Reactor Rod — Squared Cutting Cost
+## December 25 - Reactor Rod — Squared Cutting Cost
 
 ### Problem Statement
 
@@ -1715,7 +1780,7 @@ In sample 1, cut at `4` first for `7² = 49`, then at `2` in the length-4 segmen
 
 ---
 
-## 5. Alternating-Sensor Transformations
+## December 26 - Alternating-Sensor Transformations
 
 ### Problem Statement
 
@@ -1798,7 +1863,7 @@ Sample 1 has two shortest sequences: `hit → hot → dot → dog → cog` and `
 
 ---
 
-## 6. Checkpoint-Safe Storage Rectangle
+## December 27 - Checkpoint-Safe Storage Rectangle
 
 ### Problem Statement
 
@@ -1872,7 +1937,7 @@ In sample 1, all bars span width `5` at height `1`. In sample 2, the last bar al
 
 ---
 
-## 7. Peak Window Baseline
+## December 28 - Peak Window Baseline
 
 ### Problem Statement
 
@@ -1941,7 +2006,7 @@ In sample 1, the window beginning at index `5` is `[3, 6, 7]`, with median `6`. 
 
 ---
 
-## 8. Bounded Palindrome Archive
+## December 29 - Bounded Palindrome Archive
 
 ### Problem Statement
 
@@ -2010,7 +2075,7 @@ The optimal partition in sample 1 is `aa | b`. In sample 2, the optimal partitio
 
 ---
 
-## 9. Maximum Path Sum in a Binary Tree
+## December 30 - Maximum Path Sum in a Binary Tree
 
 ### Problem Statement
 
@@ -2066,3 +2131,178 @@ In sample 1, the maximum path is `15 → 20 → 7`, with sum `42`. In sample 2, 
 ### Reference
 
 - [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+
+---
+
+## December 31 - Count All Possible Routes
+
+### Problem Statement
+
+You are given an array `locations` containing distinct positive integers, where `locations[i]` represents the position of city `i`. You are also given three integers: `start`, `finish`, and `fuel`, representing the starting city index, destination city index, and initially available fuel.
+
+From any city `i`, you can travel directly to any other city `j`, provided `i` and `j` are different. The fuel required for the trip is the absolute difference between their positions: `|locations[i] - locations[j]|`.
+
+A valid route is one in which the fuel never becomes negative. Cities can be visited multiple times, including the starting and destination cities.
+
+Count all possible valid routes that start at `start` and end at `finish`. Return the result modulo `10⁹ + 7`.
+
+### Input Format
+
+- The first line contains an integer `n`, representing the number of cities.
+- The second line contains `n` space-separated integers representing the `locations` array.
+- The third line contains three space-separated integers: `start`, `finish`, and `fuel`.
+
+### Output Format
+
+Print a single integer representing the total number of valid routes modulo `1,000,000,007`.
+
+### Sample Input 1
+
+```text
+5
+2 3 6 8 4
+1 3 5
+```
+
+### Sample Output 1
+
+```text
+4
+```
+
+### Sample Input 2
+
+```text
+3
+4 3 1
+1 0 6
+```
+
+### Sample Output 2
+
+```text
+5
+```
+
+### Sample Input 3
+
+```text
+3
+5 2 1
+0 2 3
+```
+
+### Sample Output 3
+
+```text
+0
+```
+
+### Explanation
+
+In sample 1, the four valid routes are:
+
+- `1 → 3`
+- `1 → 2 → 3`
+- `1 → 4 → 3`
+- `1 → 4 → 2 → 3`
+
+In sample 2, five valid routes exist, including routes that revisit cities.
+
+In sample 3, no valid route exists because the minimum fuel required to reach city `2` is `4`, while only `3` units of fuel are available.
+
+### Constraints
+
+- `2 ≤ n ≤ 100`.
+- `1 ≤ locations[i] ≤ 10⁹`.
+- All values in `locations` are distinct.
+- `0 ≤ start, finish < n`.
+- `1 ≤ fuel ≤ 200`.
+- The answer must be returned modulo `1,000,000,007`.
+
+### Reference
+
+- [Count All Possible Routes – LeetCode](https://leetcode.com/problems/count-all-possible-routes/)
+- [Count All Possible Routes – TutorialsPoint](https://www.tutorialspoint.com/practice/count-all-possible-routes.htm)
+
+---
+
+## FAQ
+
+#### Who can join the Challenge?
+
+> Anyone who is passionate about coding and can dedicate a little time each day to the challenge over the next 31 days.
+
+#### When should I submit the pull request?
+
+> You don't need to submit a pull request every day. Submit it once you've completed all 31 algorithms.
+
+#### What if I'm not able to code every day?
+
+> Not a problem! While coding every day is nice, we understand that other commitments might get in the way.
+>
+> Plus, it's the holiday season! You don't have to solve one problem every day.
+>
+> Go at your own pace — one per day, seven a week, or even all 31 in a day!
+
+#### What language should I use to code?
+
+> Anything! New to GoLang? This is a great way to practise it.
+>
+> Want to find out what all the hype about Python is? Give it a try!
+>
+> Any and all programming languages are welcome.
+>
+> Maybe you could even try using a different language for every problem as a mini-challenge!
+
+#### Fork? Pull request? What is all that? I don't know how to use GitHub!
+
+> If you're new to Git or GitHub, check out this [GitHub guide](https://guides.github.com/activities/hello-world/) to get started.
+
+#### How should I complete these programs?
+
+> We have a folder for each day of the month. Simply complete your code and move the file into the corresponding folder.
+>
+> Be sure to rename your file using the following format:
+>
+> `username_problemname`
+>
+> **Example:** `exampleUser_probname.py`
+>
+> **Please do not modify any existing files in the repository.**
+
+#### I forked the repository, but some problems were added only after that. How do I access those problems?
+
+> Not to worry! Open your terminal or command prompt and navigate to your forked repository.
+>
+> Run the following commands:
+>
+> ```bash
+> git remote add upstream https://github.com/SVCE-ACM/A-December-of-Algorithms-2026.git
+> git fetch upstream
+> git merge upstream/main
+> ```
+>
+> These commands add a remote named `upstream` linked to the original repository, fetch its latest changes, and merge them into your local branch.
+>
+> **Note:** If you've already added the upstream repository, you don't need to add it again. Simply fetch and merge the latest changes.
+
+#### I received a merge error. What do I do?
+
+> This shouldn't happen unless you've modified existing files in the repository.
+>
+> If you encounter a merge conflict, the simplest approach is to:
+> 1. Make a copy of your completed code outside the repository.
+> 2. Clone the repository again.
+> 3. Follow the steps in the previous answer to sync your fork.
+> 4. Add your completed code to the appropriate folders.
+>
+> You can then proceed with your pull request.
+
+#### I'm facing difficulties with or need help understanding a particular question.
+
+> Open an [issue](https://github.com/SVCE-ACM/A-December-of-Algorithms-2026/issues) in this repository, and we'll do our best to help you out!
+
+---
+
+[**Back to Top ↑**](#a-december-of-algorithms-2026)
