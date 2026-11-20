@@ -546,8 +546,8 @@ In sample 1, the lengths are `13, 1, 4, 2`, so sorting in ascending order gives 
 - `1 ≤ length of each string ≤ 100`
 
 ### Reference
-[GeeksforGeeks – Sort an Array of Strings According to String Lengths](https://www.geeksforgeeks.org/sort-array-strings-according-string-lengths/)
-[LeetCode – Sort the People / Rearrange Words in a Sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence/)
+- [GeeksforGeeks – Sort an Array of Strings According to String Lengths](https://www.geeksforgeeks.org/sort-array-strings-according-string-lengths/)
+- [LeetCode – Sort the People / Rearrange Words in a Sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence/)
 
 ---
 
@@ -1505,6 +1505,8 @@ In sample 1, the intervals covering positions `0..1` and `1..2` each sum to `2`.
 ### Reference
 
 - [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
+
+---
 
 ## December 22 - Median of Two Sorted Arrays
 
